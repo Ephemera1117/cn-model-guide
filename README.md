@@ -1,4 +1,4 @@
-# 国模个人攻略
+# 国模个人攻略·合集
 
 **作者：ResetZero（[@ResetZero_1211](https://x.com/ResetZero_1211)）**
 
