@@ -14,10 +14,12 @@
 
 | 篇目 | 模型 | 发布日期 | 链接 |
 | --- | --- | --- | --- |
-| 其一 | Qwen平台（国际端）及3系列模型 | 2026.02.13 | [阅读](./其一-Qwen平台及3系列.md) \| [原帖](https://x.com/ResetZero_1211/status/2060454739511513190) |
-| 其二 | DeepSeek-V4-Pro-Preview | 2026.05.30 | [阅读](./其二-DeepSeek-V4-Pro-Preview.md) \| [原帖](https://x.com/ResetZero_1211/status/2060452311894561116) |
-| 其三 | GLM-5与GLM-5.1 | 2026.06.05 | [阅读](./其三-GLM-5与GLM-5.1.md) \| [原帖](https://x.com/ResetZero_1211/status/2062727790651420829) |
+| 其一 | Qwen平台（国际端）及3系列模型 | 2026.02.13 | [原帖](https://x.com/ResetZero_1211/status/2060454739511513190) |
+| 其二 | DeepSeek-V4-Pro-Preview | 2026.05.30 | [原帖](https://x.com/ResetZero_1211/status/2060452311894561116) |
+| 其三 | GLM-5与GLM-5.1 | 2026.06.05 | [原帖](https://x.com/ResetZero_1211/status/2062727790651420829) |
 | 其四 | Qwen3.8-2.4t-A95B与少量官端模型 | 2026.10.17 | [阅读](./其四-Qwen3.8-2.4t-A95B.md) |
+
+前三篇当前还未上传到GitHub，并且可能存在时效性问题，补传会在后续考虑。
 
 ---
 
